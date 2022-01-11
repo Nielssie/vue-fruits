@@ -1,0 +1,8 @@
+{
+fruits: [
+        { id: 34, title: "Peer" },
+        { id: 35, title: "Appel" },
+        { id: 36, title: "Banaan" },
+        { id: 39, title: "Sinasappel" },
+      ]
+}
